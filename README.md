@@ -1,11 +1,11 @@
 # GLOBAL-ELECTRONIC-RETAILERS-ANALYSIS
 This project demonstrates my skills in data cleaning, visualization, and analysis using  Power BI on retail sales data.
 
-📊 Global Electronic Retailers - Weekly Report
-Reporting Period: Monday, Dec 30 – Sunday, Jan 5, 2020
+📊 Global Electronic Retailers - Sales Report
+
 
 🔍 Overview
-This dashboard presents a weekly snapshot of key performance indicators for Global Electronic Retailers, focusing on product sales, customer activity, and profitability across various regions and product categories.
+This dashboard presents a  snapshot of key performance indicators for Global Electronic Retailers, focusing on product sales, customer activity, and profitability across various regions and product categories.
 
 🛍️ Sales Performance Highlights
 Metric	Value
